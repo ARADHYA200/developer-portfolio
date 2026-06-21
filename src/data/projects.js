@@ -129,6 +129,31 @@ export const projects = [
   },
   {
     id: 8,
+    title: "Smart Tree AI",
+    category: "AI / ML",
+    featured: false,
+    description:
+      "AI-powered smart tree recommendation and identification platform featuring image-based tree detection, intelligent recommendations, interactive analytics, and an AI chatbot for environmental awareness.",
+    image: "/projects/smart-tree.png",
+    technologies: [
+      "Python",
+      "Streamlit",
+      "Pandas",
+      "Scikit-learn",
+      "Machine Learning",
+      "OpenCV"
+    ],
+    features: [
+      "AI-powered tree identification from images",
+      "Smart tree recommendation system",
+      "Interactive analytics dashboard",
+      "AI chatbot for tree and gardening assistance",
+    ],
+    github: "https://github.com/ARADHYA200/smart_tree_ai",
+    demo: "https://smart-tree-system.streamlit.app/",
+  },
+  {
+    id: 9,
     title: "Coaching Management System",
     category: "Full Stack",
     featured: false,
@@ -146,7 +171,7 @@ export const projects = [
     demo: "https://github.com/ARADHYA200/A2B_CLASSES",
   },
   {
-    id: 9,
+    id: 10,
     title: "Portfolio Website",
     category: "Frontend",
     featured: false,
@@ -164,7 +189,7 @@ export const projects = [
     demo: "https://updated-portfolio-eight-neon.vercel.app/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Weather App",
     category: "Frontend",
     featured: false,
@@ -182,7 +207,7 @@ export const projects = [
     demo: "https://github.com/ARADHYA200/weather-app",
   },
   {
-    id: 11,
+    id: 12,
     title: "Todo App",
     category: "Frontend",
     featured: false,
