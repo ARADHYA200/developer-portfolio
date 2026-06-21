@@ -70,7 +70,7 @@ export const projects = [
       "Similarity scoring",
       "Interactive recommendations",
     ],
-    github: "https://github.com/ARADHYA200/AI_MOVIE_TASTE_DNA",
+    github: "https://github.com/ARADHYA200/ai-movie-recommendation-system",
     demo: "https://ai-movie-taste-dna.vercel.app",
   },
   {
