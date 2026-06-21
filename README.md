@@ -160,7 +160,7 @@ GitHub:
 https://github.com/ARADHYA200
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://linkedin.com/in/aradhya-agarwal-4264062a2
 
 ---
 
