@@ -1,16 +1,167 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💼 Developer Portfolio
 
-Currently, two official plugins are available:
+### Modern Responsive Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern and responsive developer portfolio showcasing my skills, projects, experience, achievements, and certifications.
 
-## React Compiler
+[🌐 Live Demo](https://updated-portfolio-eight-neon.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Website
+
+🔗 https://updated-portfolio-eight-neon.vercel.app/
+
+---
+
+# 📖 About
+
+This portfolio represents my journey as a Software Engineer and Electronics & Communication Engineering student at NIT Jalandhar.
+
+It highlights my technical skills, full-stack development experience, AI/ML projects, internships, certifications, and achievements in a clean, responsive, and modern interface.
+
+---
+
+# ✨ Features
+
+- Modern UI Design
+- Fully Responsive Layout
+- Professional Hero Section
+- About Me Section
+- Skills Showcase
+- Experience Timeline
+- Featured Projects
+- Achievements Section
+- Resume Download
+- Contact Form
+- EmailJS Integration
+- Social Media Links
+- Smooth Scroll Navigation
+- Mobile Friendly
+- Fast Loading
+- Clean Component Architecture
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React.js |
+| Build Tool | Vite |
+| Styling | Tailwind CSS |
+| Language | JavaScript |
+| Email Service | EmailJS |
+| Deployment | Vercel |
+
+---
+
+# 📷 Screenshots
+
+## 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## 👨‍💻 About Section
+
+![About](screenshots/about.png)
+
+---
+
+## ⚡ Skills Section
+
+![Skills](screenshots/skills.png)
+
+---
+
+# 📂 Project Structure
+
+```text
+developer-portfolio/
+│
+├── public/
+├── screenshots/
+│   ├── home.png
+│   ├── about.png
+│   └── skills.png
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   ├── utils/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# ⚙ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ARADHYA200/developer-portfolio.git
+```
+
+Go inside project
+
+```bash
+cd developer-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
+npm run dev
+```
+
+---
+
+# 🎯 Future Improvements
+
+- Blog Section
+- Dark / Light Theme Toggle
+- Visitor Analytics
+- Multi-language Support
+- Project Filtering
+- Better Accessibility
+- Performance Optimization
+
+---
+
+# 👨‍💻 Author
+
+**Aradhya Agarwal**
+
+Electronics & Communication Engineering  
+NIT Jalandhar
+
+Portfolio:
+https://updated-portfolio-eight-neon.vercel.app/
+
+GitHub:
+https://github.com/ARADHYA200
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+---
+
+## ⭐ If you like this project, don't forget to star the repository.
