@@ -192,7 +192,7 @@ export const projects = [
   id: 11,
   title: "LedgerLens – AI AML Intelligence Platform",
   category: "AI / ML",
-  featured: true,
+  featured: false,
   description:
     "AI-powered Anti Money Laundering platform for detecting suspicious financial transactions through fraud analytics, transaction monitoring, interactive dashboards, and intelligent risk visualization.",
   image: "/projects/ledgerlens.png",
@@ -213,8 +213,33 @@ export const projects = [
   github: "https://github.com/ARADHYA200/LEDGERLENS_AML_INTELLIGENCE",
   demo: "https://ledgerlens-aml-intelligence.vercel.app",
 },
+{
+  id: 12,
+  title: "Virtual Campus OS",
+  category: "Full Stack",
+  featured: false,
+  description:
+    "Gamified virtual campus platform featuring interactive maps, quests, leaderboards, authentication, and real-time player progression with MongoDB-backed user profiles.",
+  image: "/projects/virtual-campus.png",
+  technologies: [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "JWT",
+    "Vite"
+  ],
+  features: [
+    "Gamified virtual campus experience",
+    "Authentication & user progression",
+    "Interactive map and quest system",
+    "Leaderboard & player statistics",
+  ],
+  github: "https://github.com/ARADHYA200/VIRTUAL_CAMPUS_OS",
+  demo: "https://virtual-campus-beryl.vercel.app/",
+},
   {
-    id: 12,
+    id: 13,
     title: "Weather App",
     category: "Frontend",
     featured: false,
@@ -232,7 +257,7 @@ export const projects = [
     demo: "https://github.com/ARADHYA200/weather-app",
   },
   {
-    id: 13,
+    id: 14,
     title: "Todo App",
     category: "Frontend",
     featured: false,
