@@ -189,7 +189,32 @@ export const projects = [
     demo: "https://updated-portfolio-eight-neon.vercel.app/",
   },
   {
-    id: 11,
+  id: 11,
+  title: "LedgerLens – AI AML Intelligence Platform",
+  category: "AI / ML",
+  featured: true,
+  description:
+    "AI-powered Anti Money Laundering platform for detecting suspicious financial transactions through fraud analytics, transaction monitoring, interactive dashboards, and intelligent risk visualization.",
+  image: "/projects/ledgerlens.png",
+  technologies: [
+    "React",
+    "FastAPI",
+    "Python",
+    "Tailwind CSS",
+    "Pandas",
+    "NumPy"
+  ],
+  features: [
+    "Fraud detection dashboard",
+    "Transaction monitoring & analytics",
+    "Risk score visualization",
+    "CSV upload & financial insights",
+  ],
+  github: "https://github.com/ARADHYA200/LEDGERLENS_AML_INTELLIGENCE",
+  demo: "https://ledgerlens-aml-intelligence.vercel.app",
+},
+  {
+    id: 12,
     title: "Weather App",
     category: "Frontend",
     featured: false,
@@ -207,7 +232,7 @@ export const projects = [
     demo: "https://github.com/ARADHYA200/weather-app",
   },
   {
-    id: 12,
+    id: 13,
     title: "Todo App",
     category: "Frontend",
     featured: false,
