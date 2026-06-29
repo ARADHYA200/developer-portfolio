@@ -19,12 +19,14 @@ function ProjectCard({ project, onSelect }) {
       aria-label={`View details for ${project.title}`}
     >
       <div className="relative overflow-hidden">
-        <img
-          src={project.image}
-          alt={project.title}
-          className="h-48 sm:h-56 w-full object-cover transition duration-700 group-hover:scale-110"
-          loading="lazy"
-        />
+        <div className="h-48 sm:h-56 bg-[#111827] flex items-center justify-center overflow-hidden">
+          <img
+            src={project.image}
+            alt={project.title}
+            className="w-full h-full object-contain transition duration-700 group-hover:scale-105"
+            loading="lazy"
+          />
+        </div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#030712] via-transparent to-transparent" />
 
         {project.featured && (

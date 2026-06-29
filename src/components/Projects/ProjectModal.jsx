@@ -47,11 +47,13 @@ export default function ProjectModal({ project, onClose }) {
             <X size={20} />
           </button>
 
-          <img
-            src={project.image}
-            alt={project.title}
-            className="w-full h-48 sm:h-56 object-cover"
-          />
+          <div className="w-full bg-[#111827] flex items-center justify-center">
+            <img
+              src={project.image}
+              alt={project.title}
+              className="w-full max-h-[500px] object-contain"
+            />
+          </div>
 
           <div className="p-6 sm:p-8">
             <div className="flex flex-wrap items-center gap-3 mb-4">
