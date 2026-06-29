@@ -151,11 +151,17 @@ body::-webkit-scrollbar-thumb {
     transform: translateX(-50%);
   }
 }
-.custom-scroll::-webkit-scrollbar {
-    width: 0;
-    height: 0;
+.custom-scroll::-webkit-scrollbar{
+    width:6px;
 }
 
-.custom-scroll {
-    -ms-overflow-style: none;
+.custom-scroll::-webkit-scrollbar-track{
+    background:transparent;
+    margin:16px 0;     /* top-bottom gap */
+}
+
+.custom-scroll::-webkit-scrollbar-thumb{
+    background:rgba(59,130,246,.6);
+    border-radius:999px;
+    border:2px solid transparent;
 }
