@@ -61,14 +61,9 @@ export const currentLearning = [
 
 export const timeline = [
   {
-    year: "2022",
-    title: "Started B.Tech at NIT Jalandhar",
-    description: "Began ECE program while self-learning software engineering and DSA.",
-  },
-  {
     year: "2023",
-    title: "Started Building Web Projects",
-    description: "Created Frontend projects— Todo App, Weather App, and Portfolio Website.",
+    title: "Started B.Tech at NIT Jalandhar & Started Building Web Projects",
+    description: "Began ECE program while self-learning software engineering and DSA and created Frontend projects— Todo App, Weather App, and Portfolio Website.",
   },
   {
     year: "2024",
